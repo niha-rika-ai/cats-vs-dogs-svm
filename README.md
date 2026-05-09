@@ -69,7 +69,7 @@ Using HOG features significantly improved the model performance compared to usin
 <img width="1612" height="535" alt="1" src="https://github.com/user-attachments/assets/b2eac1a9-0456-4bfb-b40e-2d8cebe27662" />
 <img width="1580" height="922" alt="2" src="https://github.com/user-attachments/assets/7165e478-0654-4a93-a073-c9b6d21a2414" />
 <img width="1025" height="865" alt="3" src="https://github.com/user-attachments/assets/b80195a2-0870-4465-af21-1f3aa6cf6962" />
-<img width="991" height="495" alt="4" src="https://github.com/user-attachments/assets/87e91f55-7dfc-469e-a07a-06f0fda59d39" />
+<img width="991" height="286" alt="4" src="https://github.com/user-attachments/assets/9a99adfc-5ee2-4e0a-be60-a71a0ac7d1fe" />
 
 ---
 
