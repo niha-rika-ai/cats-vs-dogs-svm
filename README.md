@@ -57,11 +57,11 @@ Using HOG features significantly improved the model performance compared to usin
 
 ## ▶️ How to Run the Project
 
-1️⃣ Install Dependencies - pip install -r requirements.txt
-2️⃣ Preprocess Images - python src/preprocess.py
-3️⃣ Train the SVM Model - python src/train_model.py
-4️⃣ Evaluate the Model - python src/evaluate_model.py
-5️⃣ Run the Streamlit App - python -m streamlit run app/app.py
+- 1️⃣ Install Dependencies - pip install -r requirements.txt
+- 2️⃣ Preprocess Images - python src/preprocess.py
+- 3️⃣ Train the SVM Model - python src/train_model.py
+- 4️⃣ Evaluate the Model - python src/evaluate_model.py
+- 5️⃣ Run the Streamlit App - python -m streamlit run app/app.py
 
 ---
 ## 📸 Screenshots
